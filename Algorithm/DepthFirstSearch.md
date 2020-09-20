@@ -6,3 +6,5 @@
 - This process repeats recursively and the recursion repeats into a branch until it cannot go any further.
 
 :::image type="content" source="DepthFirst01.PNG" alt-text="DFS image":::
+
+![DFS image](DepthFirst01.PNG)
