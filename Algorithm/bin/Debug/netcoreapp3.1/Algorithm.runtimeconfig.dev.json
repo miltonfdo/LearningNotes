@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\milto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\milto\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csprojAssemblyReference.cache
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+C:\MIlton\Repo\Githib\learning\Learning\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache

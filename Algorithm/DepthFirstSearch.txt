@@ -1,0 +1,14 @@
+Depth first search uses stack
+ -Stack is Last in first out
+
+ -----------------------------
+0->1
+!/
+2->3
+Desc
+O connect to 1 and 2
+ 2 connect to 3 
+ snf 1 connects to 2
+(Pictorial representation in Depthfirst01.png)
+---
+Stact 1
