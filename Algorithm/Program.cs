@@ -23,7 +23,17 @@ namespace Algorithm
 
             Console.WriteLine("BFS-->"); bfs_traversal(tree);
 
-            Console.WriteLine("\n DFS-->"); dfs_traversal(tree);
+            Console.WriteLine("\n \nDFS-->"); dfs_traversal(tree);
+
+
+            char[] exp = { '{', '(', ')', '}', '[', ']' };
+            string s = new string(exp);
+          
+            Console.WriteLine("\n\nBalanced paranthesis Input string:{0}",s);
+            if (balancedParanthesisCheck(exp))
+                Console.WriteLine("\nBalanced ");
+            else
+                Console.WriteLine("\nNot Balanced ");
 
 
 
