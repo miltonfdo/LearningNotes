@@ -1,4 +1,5 @@
-****Repositories has learning meaterials,information and solutions about 
+
+**Repositories has learning meaterials,information and solutions about**
 - Algorithms
 - Hackerrank challenges
 - C# Problem solutions
