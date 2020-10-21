@@ -14,17 +14,22 @@ namespace Algorithm
                 if (exp[i] == '(' || exp[i] == '{' || exp[i] == '[')
                     st.Push(exp[i]);
 
-                if (exp[i] == '}' || exp[i] == '}' || exp[i] == '}')
+                if (exp[i] == ')' || exp[i] == '}' || exp[i] == ']')
                 {
                     if (st.Count == 0)
-                        return true;
-                    else if (isMatchingPair(st.Pop(), exp[i]))
+                        return false;
+                    else if (!isMatchingPair(st.Pop(), exp[i]))
                     {
                         return false;
                     }
                 }
             }
-            return false;
+
+            if (st.Count == 0) 
+            return true; // balanced 
+        else { // not balanced 
+            return false; 
+        } 
         }
         static Boolean isMatchingPair(char character1, char character2)
         {
@@ -81,7 +86,6 @@ namespace Algorithm
         {
             return (top == -1) ? true : false;
         }
-
 
     }
 
