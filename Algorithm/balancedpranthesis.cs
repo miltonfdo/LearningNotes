@@ -75,13 +75,12 @@ namespace Algorithm
             }
             else
             {
-                char element = items[top];
+p                char element = items[top];
                 top--;
                 return element;
             }
 
         }
-
         Boolean isEmpty()
         {
             return (top == -1) ? true : false;
@@ -91,3 +90,4 @@ namespace Algorithm
 
 
 }
+kk
