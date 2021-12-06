@@ -75,7 +75,7 @@ namespace Algorithm
             }
             else
             {
-p                char element = items[top];
+               char element = items[top];
                 top--;
                 return element;
             }
