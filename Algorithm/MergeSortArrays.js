@@ -17,7 +17,7 @@ function mergeSortedArray(array1,array2){
 		if(!array2Item|array1Item<array2Item){
 			mergeArray.push(array1Item)
 			array1Item=array1[i]
-			i++;
+			i++;	
 
 		}
 		else
