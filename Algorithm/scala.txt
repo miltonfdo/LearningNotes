@@ -1,0 +1,13 @@
+lambda fucntion in python
+s3 bucket,what is s10
+Spark:
+- How can you read a file from a location
+- what is difference between dataframe
+- Loading the file what format will tey 
+- how can improve if there are memoryn issue
+
+Scala:
+- pass by value
+- pass by reference
+- what are the screens
+- why do we use functional program
