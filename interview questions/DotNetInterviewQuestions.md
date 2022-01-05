@@ -153,11 +153,34 @@ Question 34  :- What is a Event ?
 Question 35  :- How to create a event ?
 Question 36  :- Delegate vs Events.
 Question 37 :- Why do we need OOP ?
+It forces developers to think in terms of real world
 Question 38 :- What are the important pillars of OOPs ?
+(A PIE)
+Abstraction 
+Polymorphishm
+Inheritance
+Encapsulation
+
 Question 39 :- What is a class and object ?
+
+Class is a type,Blue print 
+Object is an instance of class
+
 Question 40 :- Abstraction vs Encapsulation?
+
+Abstraction - show only whats necessary,And happens during design phase
+Encapsulation - is hiding complexity,Happens during execution (in a more simpler manner abstraction happens during encapsulation)
+
+<img src="C:\MIlton\Repo\Githib\learning\Learning\interview questions\images\image-20220104214450962.png" alt="image-20220104214450962" style="zoom:50%;" />
+
 Question 41 :- Explain Inheritance ?
+
+Inheritance defines parent child relationship
+
 Question 42 :- Explain virtual keyword ?
+
+
+
 Question 43 :- What is overriding ?
 Question 44 :- Explain overloading ?
 Question 45 :- Overloading vs Overriding ?
