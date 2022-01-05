@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.exe
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.deps.json
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.runtimeconfig.json
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.dll
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\bin\Debug\netcoreapp3.1\OOPInterview.pdb
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.AssemblyInfo.cs
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.dll
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.pdb
+C:\Users\Dell\source\repos\OOPInterview\OOPInterview\obj\Debug\netcoreapp3.1\OOPInterview.genruntimeconfig.cache

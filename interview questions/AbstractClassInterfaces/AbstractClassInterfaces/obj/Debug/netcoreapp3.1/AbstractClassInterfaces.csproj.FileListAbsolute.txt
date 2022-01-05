@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.exe
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.deps.json
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.runtimeconfig.json
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.dll
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\bin\Debug\netcoreapp3.1\AbstractClassInterfaces.pdb
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.AssemblyInfo.cs
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.dll
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.pdb
+C:\Users\Dell\source\repos\AbstractClassInterfaces\AbstractClassInterfaces\obj\Debug\netcoreapp3.1\AbstractClassInterfaces.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+
+dotnet new webapp -f netcoreapp3.1 -o DotnetDemoapp
+
+cd DotnetDemoapp/
+
+git init
+
+git remote add origin git@github.com:miltonfdo/ActionsDemo.git
+
+git add .
+
+git commit -m "add base application"
+
+git push -u origin master
+
