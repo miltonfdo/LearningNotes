@@ -6,8 +6,9 @@
 - Golang utility programs
 
 
-**Videos:
+**Videos:**
+- how to prepare  --> https://www.youtube.com/watch?v=bfWhZ51Zcz0&t=31s
 - https://www.youtube.com/watch?v=RDv81ummQRI
 
-** Tips :
+**Tips :**
 - https://seanprashad.com/leetcode-patterns/
