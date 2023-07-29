@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Heading - update inner html</title>
+    <script>
+        let counter =0
+        function hello() {
+            counter++;
+            let heading=document.querySelector('h1')
+            heading.innerHTML=counter;
+        }
+    </script>
+</head>
+
+<body>
+    <h1>0</h1>
+    <button id="btnText" onclick="hello()">Update</button>
+</body>
+</html>

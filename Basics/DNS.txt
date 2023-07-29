@@ -1,0 +1,12 @@
+
+
+Root servers --> https://www.iana.org/domains/root/servers
+
+
+dig @198.41.0.4 www.facebook.com
+
+netstat -rn -f inet
+
+
+
+https://www.youtube.com/watch?v=-wMU8vmfaYo
