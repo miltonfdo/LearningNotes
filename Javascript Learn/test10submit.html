@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Heading - lesson8 colors</title>
+    <script>
+        document.addEventListener('DOMContentLoaded',function(){
+            document.querySelector('#submit').disabled=true;
+
+            document.querySelector('#submit').onkeyup = () =>{
+                document.querySelector('#submit').disabled=false;
+
+
+            }
+            document.querySelector('form').onsubmit =()=>{
+               const task= document.querySelector('#task').value;
+
+               document.querySelector('#task').append(task)
+               
+               console.log(task);
+               //stop form from submitting
+               return false;
+            }
+        }
+
+        );
+//data-<any> can be used to get/story back attributes
+    </script>
+</head>
+
+<body>
+    <h1 id="hello">Hello</h1>
+<form>
+    <input id="task" placeholder="new task" type="text">
+    <input type="submit" id="submit">
+</form>
+</body>
+</html>

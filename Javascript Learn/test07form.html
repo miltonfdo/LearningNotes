@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Heading - lesson1</title>
+    <script>
+        document.addEventListener('DOMContentLoaded',function(){
+            document.querySelector('form').onsubmit= function(){
+              const name=  document.querySelector('#name').value;
+              alert(`hello ${name}`);
+            }
+        }
+        );
+
+    </script>
+</head>
+
+<body>
+    <form>
+    <h1>Hello</h1>
+    <input autofocus id="name" placeholder="Name" type="text">
+    <input type="submit">
+</form>
+</body>
+</html>

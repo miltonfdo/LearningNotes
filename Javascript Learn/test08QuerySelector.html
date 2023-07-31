@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Heading - lesson8 colors</title>
+    <script>
+        document.addEventListener('DOMContentLoaded',function(){
+            document.querySelector('#red').onclick= function(){
+                document.querySelector('#hello').style.color='red';
+
+            };
+            document.querySelector('#blue').onclick= function(){
+                document.querySelector('#hello').style.color='blue';
+
+            };
+            document.querySelector('#green').onclick= function(){
+                document.querySelector('#hello').style.color='green';
+
+            };
+        }
+
+        );
+//data-<any> can be used to get/story back attributes
+    </script>
+</head>
+
+<body>
+    <form>
+    <h1 id="hello">Hello</h1>
+    
+    <button id="red" data-color="red">Red</button>
+    <button id="blue" data-color="blue">Blue</button>
+    <button id="green" data-color="green">green</button>
+
+</form>
+</body>
+</html>
