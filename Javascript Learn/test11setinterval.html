@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Heading - lesson1</title>
+    <script>
+        let counter=0;
+        function hello() {
+            counter++;
+            document.querySelector('#heading').innerHTML=counter;
+        }
+
+        document.addEventListener('DOMContentLoaded',()=>{
+            setInterval(hello,1000)
+        })
+   </script>
+</head>
+
+<body>
+    <h1 id="heading">Hello</h1>
+    <button id="btnText" onclick="hello()">counter</button>
+</body>
+</html>

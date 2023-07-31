@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Heading - lesson1</title>
+    <script>
+        if(!localStorage.getItem('counter')){
+            localStorage.setItem('counter',0);
+
+        }
+        function hello() {
+          let counter=localStorage.getItem('counter');
+          counter++;
+
+
+            document.querySelector('#heading').innerHTML=counter;
+            localStorage.setItem('counter',counter);
+
+            
+
+        }
+
+        document.addEventListener('DOMContentLoaded',()=>{
+            document.querySelector('#heading').innerHTML=localStorage.getItem('counter');
+            document.querySelector('#btnText').onclick=hello;
+
+        })
+   </script>
+</head>
+
+<body>
+    <h1 id="heading">Hello</h1>
+    <button id="btnText" onclick="hello()">counter</button>
+</body>
+</html>
