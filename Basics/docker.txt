@@ -1,0 +1,4 @@
+-
+virtual machines actually virtually runs all the copy of operating system and everything
+
+https://www.docker.com/resources/what-container/
